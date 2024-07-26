@@ -17,7 +17,7 @@ print(age);
 print("My age is "+str(age)); 
 
 ### Float
-height = 220.5
+height = 180.5
 print("Your height is: "+str(height)+"cm");
 
 ### Boolean
