@@ -23,3 +23,10 @@ print(reversed_name);
 
 ### Usando slice().
 
+website01 = "http://google.com"
+website02 = "http://wikipedia.com"
+
+slice_site = slice(7,-4);
+
+print(website01[slice_site]);
+print(website02[slice_site]);
