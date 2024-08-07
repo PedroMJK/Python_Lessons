@@ -1,4 +1,4 @@
-# If  =  É um  bloco de código que irá executar apenas se a condição for verdadeira.
+# Declarações If  =  É um  bloco de código que irá executar apenas se a condição for verdadeira.
 
 age = int(input("Quantos anos você tem?: "));
 
